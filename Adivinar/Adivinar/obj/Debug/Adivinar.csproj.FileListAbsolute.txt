@@ -1,0 +1,10 @@
+C:\Users\sis\Documents\Practicas C#\Adivinar\Adivinar\bin\Debug\Adivinar.exe.config
+C:\Users\sis\Documents\Practicas C#\Adivinar\Adivinar\bin\Debug\Adivinar.exe
+C:\Users\sis\Documents\Practicas C#\Adivinar\Adivinar\bin\Debug\Adivinar.pdb
+C:\Users\sis\Documents\Practicas C#\Adivinar\Adivinar\obj\Debug\Adivinar.csproj.AssemblyReference.cache
+C:\Users\sis\Documents\Practicas C#\Adivinar\Adivinar\obj\Debug\Adivinar.Form1.resources
+C:\Users\sis\Documents\Practicas C#\Adivinar\Adivinar\obj\Debug\Adivinar.Properties.Resources.resources
+C:\Users\sis\Documents\Practicas C#\Adivinar\Adivinar\obj\Debug\Adivinar.csproj.GenerateResource.cache
+C:\Users\sis\Documents\Practicas C#\Adivinar\Adivinar\obj\Debug\Adivinar.csproj.CoreCompileInputs.cache
+C:\Users\sis\Documents\Practicas C#\Adivinar\Adivinar\obj\Debug\Adivinar.exe
+C:\Users\sis\Documents\Practicas C#\Adivinar\Adivinar\obj\Debug\Adivinar.pdb
