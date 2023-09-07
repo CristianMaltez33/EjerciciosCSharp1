@@ -1,0 +1,11 @@
+C:\Users\sis\Documents\Practicas C#\ComunicacionForms\ComunicacionForms\bin\Debug\ComunicacionForms.exe.config
+C:\Users\sis\Documents\Practicas C#\ComunicacionForms\ComunicacionForms\bin\Debug\ComunicacionForms.exe
+C:\Users\sis\Documents\Practicas C#\ComunicacionForms\ComunicacionForms\bin\Debug\ComunicacionForms.pdb
+C:\Users\sis\Documents\Practicas C#\ComunicacionForms\ComunicacionForms\obj\Debug\ComunicacionForms.csproj.AssemblyReference.cache
+C:\Users\sis\Documents\Practicas C#\ComunicacionForms\ComunicacionForms\obj\Debug\ComunicacionForms.Principal.resources
+C:\Users\sis\Documents\Practicas C#\ComunicacionForms\ComunicacionForms\obj\Debug\ComunicacionForms.Properties.Resources.resources
+C:\Users\sis\Documents\Practicas C#\ComunicacionForms\ComunicacionForms\obj\Debug\ComunicacionForms.Secundario.resources
+C:\Users\sis\Documents\Practicas C#\ComunicacionForms\ComunicacionForms\obj\Debug\ComunicacionForms.csproj.GenerateResource.cache
+C:\Users\sis\Documents\Practicas C#\ComunicacionForms\ComunicacionForms\obj\Debug\ComunicacionForms.csproj.CoreCompileInputs.cache
+C:\Users\sis\Documents\Practicas C#\ComunicacionForms\ComunicacionForms\obj\Debug\ComunicacionForms.exe
+C:\Users\sis\Documents\Practicas C#\ComunicacionForms\ComunicacionForms\obj\Debug\ComunicacionForms.pdb

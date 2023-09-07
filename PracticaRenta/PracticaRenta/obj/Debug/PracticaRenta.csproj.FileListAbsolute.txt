@@ -1,0 +1,12 @@
+C:\Users\sis\Documents\Practicas C#\PracticaRenta\PracticaRenta\bin\Debug\PracticaRenta.exe.config
+C:\Users\sis\Documents\Practicas C#\PracticaRenta\PracticaRenta\bin\Debug\PracticaRenta.exe
+C:\Users\sis\Documents\Practicas C#\PracticaRenta\PracticaRenta\bin\Debug\PracticaRenta.pdb
+C:\Users\sis\Documents\Practicas C#\PracticaRenta\PracticaRenta\obj\Debug\PracticaRenta.csproj.AssemblyReference.cache
+C:\Users\sis\Documents\Practicas C#\PracticaRenta\PracticaRenta\obj\Debug\PracticaRenta.IngresarRenta.resources
+C:\Users\sis\Documents\Practicas C#\PracticaRenta\PracticaRenta\obj\Debug\PracticaRenta.VistaRentas.resources
+C:\Users\sis\Documents\Practicas C#\PracticaRenta\PracticaRenta\obj\Debug\PracticaRenta.Properties.Resources.resources
+C:\Users\sis\Documents\Practicas C#\PracticaRenta\PracticaRenta\obj\Debug\PracticaRenta.csproj.GenerateResource.cache
+C:\Users\sis\Documents\Practicas C#\PracticaRenta\PracticaRenta\obj\Debug\PracticaRenta.csproj.CoreCompileInputs.cache
+C:\Users\sis\Documents\Practicas C#\PracticaRenta\PracticaRenta\obj\Debug\PracticaRenta.exe
+C:\Users\sis\Documents\Practicas C#\PracticaRenta\PracticaRenta\obj\Debug\PracticaRenta.pdb
+C:\Users\sis\Documents\Practicas C#\PracticaRenta\PracticaRenta\obj\Debug\PracticaRenta.ReingresoRenta.resources
