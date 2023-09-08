@@ -1,0 +1,12 @@
+C:\Users\sis\Documents\Practicas C#\PE1GL18GM23025\PE1GL18GM23025\bin\Debug\PE1GL18GM23025.exe.config
+C:\Users\sis\Documents\Practicas C#\PE1GL18GM23025\PE1GL18GM23025\bin\Debug\PE1GL18GM23025.exe
+C:\Users\sis\Documents\Practicas C#\PE1GL18GM23025\PE1GL18GM23025\bin\Debug\PE1GL18GM23025.pdb
+C:\Users\sis\Documents\Practicas C#\PE1GL18GM23025\PE1GL18GM23025\obj\Debug\PE1GL18GM23025.csproj.AssemblyReference.cache
+C:\Users\sis\Documents\Practicas C#\PE1GL18GM23025\PE1GL18GM23025\obj\Debug\PracticaRenta.IngresarRenta.resources
+C:\Users\sis\Documents\Practicas C#\PE1GL18GM23025\PE1GL18GM23025\obj\Debug\PracticaRenta.ReingresoRenta.resources
+C:\Users\sis\Documents\Practicas C#\PE1GL18GM23025\PE1GL18GM23025\obj\Debug\PracticaRenta.VistaRentas.resources
+C:\Users\sis\Documents\Practicas C#\PE1GL18GM23025\PE1GL18GM23025\obj\Debug\PE1GL18GM23025.Properties.Resources.resources
+C:\Users\sis\Documents\Practicas C#\PE1GL18GM23025\PE1GL18GM23025\obj\Debug\PE1GL18GM23025.csproj.GenerateResource.cache
+C:\Users\sis\Documents\Practicas C#\PE1GL18GM23025\PE1GL18GM23025\obj\Debug\PE1GL18GM23025.csproj.CoreCompileInputs.cache
+C:\Users\sis\Documents\Practicas C#\PE1GL18GM23025\PE1GL18GM23025\obj\Debug\PE1GL18GM23025.exe
+C:\Users\sis\Documents\Practicas C#\PE1GL18GM23025\PE1GL18GM23025\obj\Debug\PE1GL18GM23025.pdb
