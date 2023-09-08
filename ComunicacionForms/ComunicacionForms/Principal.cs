@@ -40,6 +40,6 @@ namespace ComunicacionForms
             this.txtMensaje2.Text = secundario.Mensaje2;
         }
 
-       
+        
     }
 }

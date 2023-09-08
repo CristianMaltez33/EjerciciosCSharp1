@@ -8,3 +8,13 @@ C:\Users\sis\source\repos\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.Gene
 C:\Users\sis\source\repos\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
 C:\Users\sis\source\repos\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
 C:\Users\sis\source\repos\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\crist\OneDrive\Documentos\C# practicas\EjerciciosCSharp1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\crist\OneDrive\Documentos\C# practicas\EjerciciosCSharp1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\crist\OneDrive\Documentos\C# practicas\EjerciciosCSharp1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\crist\OneDrive\Documentos\C# practicas\EjerciciosCSharp1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Documentos\C# practicas\EjerciciosCSharp1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.ejercicio1.resources
+C:\Users\crist\OneDrive\Documentos\C# practicas\EjerciciosCSharp1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\crist\OneDrive\Documentos\C# practicas\EjerciciosCSharp1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\crist\OneDrive\Documentos\C# practicas\EjerciciosCSharp1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Documentos\C# practicas\EjerciciosCSharp1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\crist\OneDrive\Documentos\C# practicas\EjerciciosCSharp1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb

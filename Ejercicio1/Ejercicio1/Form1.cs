@@ -36,8 +36,14 @@ namespace Ejercicio1
 
                 e.Handled = true;
 
-                  txtNumeros.SelectionStart = pos;
+                txtNumeros.SelectionStart = pos;
 
+                return;
+            }
+
+            if(e.KeyChar == (char)Keys.Back && String.IsNullOrEmpty(txtNumeros.Text)){
+
+                e.Handled = true;
                 return;
             }
 
@@ -58,7 +64,7 @@ namespace Ejercicio1
 
                 e.Handled = true;
 
-                    txtNumeros.SelectionStart = pos + 1;
+                txtNumeros.SelectionStart = pos + 1;
 
                 return;
             }
@@ -138,8 +144,10 @@ namespace Ejercicio1
             //    this.lessSign++;
 
             if (this.dotCounted == 1 && pos == 0 && puntoASCII)
+            {
                 txtNumeros.Text = "0.";
-                
+                txtNumeros.SelectionStart = 2;
+            }
 
             //verifyDot = this.dotCounted > 1;
 
@@ -162,7 +170,7 @@ namespace Ejercicio1
 
             //    e.Handled = true;
 
-            txtNumeros.SelectionStart = 2;
+
 
             //    return;
             //}

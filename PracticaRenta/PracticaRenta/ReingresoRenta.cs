@@ -22,8 +22,27 @@ namespace PracticaRenta
 
         private void btnGuardar_Click(object sender, EventArgs e)
         {
-            var Rentas = VistaRentas.ObtenerRenta();
 
+            if (String.IsNullOrEmpty(mtxtKmRenta.Text))
+            {
+                epDatos.SetError(mtxtKmRenta, "El campo no pude estar vacio");
+                return;
+            }
+            else
+                epDatos.Clear();
+            
+            List<object> Rentas = VistaRentas.ObtenerRenta();
+
+            if (Rentas[index] is Renta renta)
+            {
+                renta.FechaDevolucion = (dtpFechaReingreso.Value).ToString("dd-MM-yyyy");
+                renta.kmDespuesR = Convert.ToDouble(this.mtxtKmRenta.Text);
+
+                renta.CalcularTodo();
+            }
+
+            DialogResult = DialogResult.OK;
+            this.Close();
         }
     }
 }
