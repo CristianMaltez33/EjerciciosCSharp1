@@ -41,7 +41,9 @@ namespace PracticaRenta
         "Placas",
         "Fecha renta",
         "Fecha devolución",
-        "Km recorridos",
+        "Kms iniciales",
+        "Kms finales",
+        "Kms recorridos",
         "Total renta"
         };
 
@@ -66,11 +68,7 @@ namespace PracticaRenta
             InitializeComponent();
         }
 
-        private void VistaRentas_Load(object sender, EventArgs e)
-        {
-
-        }
-
+        
 
         // evento click del boton ingresar
         private void btnIngresar_Click(object sender, EventArgs e)
@@ -134,6 +132,8 @@ namespace PracticaRenta
         string placa;
         string fechaRenta;
         string fechaDevolucion;
+        double _kmAntesR = 0;
+        double _kmDespuesR = 0;
         double kmRecorridos;
         string total;
 
@@ -168,6 +168,20 @@ namespace PracticaRenta
             set { fechaDevolucion = value; }
             get { return fechaDevolucion; }
         }
+
+        //set para guardar los km iniciales 
+        public double kmAntesR {
+            set { _kmAntesR = value; }
+            get { return _kmAntesR; }
+        }
+
+        //set para guardar km despues
+        public double kmDespuesR
+        {
+            set { _kmDespuesR = value; }
+            get { return _kmDespuesR; }
+        }
+
         public double KmRecorridos
         {
             set { kmRecorridos = value; }
@@ -178,22 +192,6 @@ namespace PracticaRenta
             set { total = value; }
             get { return total; }
         }
-
-        private double _kmAntesR = 0;
-        private double _kmDespuesR = 0;
-
-
-        //set para guardar los km iniciales 
-        public double kmAntesR {
-            set { this._kmAntesR = value; }
-        }
-
-        //set para guardar km despues
-        public double kmDespuesR
-        {
-            set { this._kmDespuesR = value; }
-        }
-
 
         // metodo CalcularTodo que realiza el calculo matematico para saber cual es el total.
         public void CalcularTodo()

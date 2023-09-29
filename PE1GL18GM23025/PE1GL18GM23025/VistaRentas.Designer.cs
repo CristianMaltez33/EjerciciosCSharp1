@@ -152,8 +152,6 @@ namespace PracticaRenta
             this.Controls.Add(this.dtgvRentas);
             this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "VistaRentas";
-            this.Text = "Tu Coche Ideal";
-            this.Load += new System.EventHandler(this.VistaRentas_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dtgvRentas)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
